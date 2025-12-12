@@ -1,6 +1,6 @@
 package org.example.structural;
 
-public class NewPaymentProcessor {
+public class NewPaymentGateway {
 
     public boolean authenticate(String apiKey) {
         return true;
